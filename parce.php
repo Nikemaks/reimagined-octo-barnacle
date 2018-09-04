@@ -1,4 +1,4 @@
 <?php 
 
-parse_request
+   parse_request();
  ?>	
